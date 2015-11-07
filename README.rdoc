@@ -1,0 +1,3 @@
+Voteable_Jason_Nov
+
+A gem for adding voting functionality to resources.  Ideal for social networks.
